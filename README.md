@@ -3,7 +3,10 @@
 This is a simple Node.js + Express project that provides weather information using an API openweather api.
 
 ## Live Demo  
-🌐 [Today Weather App Live](https://todayweather-4hucoclr3-rams-projects-3e4052d2.vercel.app)
+🌐[Today Weather App Live](todayweather-zeta.vercel.app)
+Domain
+todayweather-zeta.vercel.app
+
 
 ## How to Run Locally
 
