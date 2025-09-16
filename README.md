@@ -9,7 +9,7 @@ This is a simple Node.js + Express project that provides weather information usi
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/digambasingh/Todayweather.git
 
 
 ## Install dependencies:
